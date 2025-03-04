@@ -1,2 +1,2 @@
 # jupyterlens
-Jupyter notebooks exploring public datasets
+Jupyter notebooks exploring public datasets using PySpark
