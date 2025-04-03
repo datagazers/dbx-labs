@@ -1,2 +1,2 @@
-# dababricks nbs for Pyspark
+# dbx nbs for Pyspark
 Databricks notebooks for revising PySpark Basics
